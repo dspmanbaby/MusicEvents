@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MusicEvents</string>
+    <string name="dates">Dates:</string>
+    <string name="Events">Events:</string>
+    <string name="musicevents">Music Events</string>
+</resources>
